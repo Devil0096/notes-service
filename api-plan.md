@@ -13,3 +13,7 @@
 - content
 - tags[]
 - created_at
+
+## Поиск
+- GET /notes?q=... — поиск по тексту
+- GET /notes?tag=... — фильтр по тегу
