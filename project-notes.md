@@ -8,7 +8,7 @@
 ## Стек технологий
 - Python + FastAPI
 
-## Roadmap
+## Roadmap заметок
 - [ ] CRUD заметок
 - [ ] Теги
 - [ ] Поиск
