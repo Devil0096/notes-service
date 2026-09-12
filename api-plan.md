@@ -14,6 +14,6 @@
 - tags[]
 - created_at
 
-## Поиск
-- GET /notes?q=... — поиск по тексту
-- GET /notes?tag=... — фильтр по тегу
+## Теги
+- GET /tags — список всех тегов
+- POST /notes/{id}/tags — добавить тег
