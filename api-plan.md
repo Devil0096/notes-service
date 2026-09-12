@@ -13,3 +13,7 @@
 - content
 - tags[]
 - created_at
+
+## Теги
+- GET /tags — список всех тегов
+- POST /notes/{id}/tags — добавить тег
